@@ -7,9 +7,9 @@
  *
  * PHP version 5
  *
- * @author    Andrew Lyon <alyon@docnet.nu>
- * @copyright Doctor Net Ltd &copy; 2014
- * @version ${3:1.0.0}
+ * @author    ${3:name} <${4:email}>
+ * @copyright ${5:company} &copy; 2014
+ * @version ${6:1.0.0}
  */
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
