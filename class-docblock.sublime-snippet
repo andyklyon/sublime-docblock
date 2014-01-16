@@ -1,0 +1,19 @@
+<snippet>
+   <content><![CDATA[
+/**
+ * ${1:Short description}
+ *
+ * ${2:Long description}
+ *
+ * PHP version 5
+ *
+ * @author    Andrew Lyon <alyon@docnet.nu>
+ * @copyright Doctor Net Ltd &copy; 2014
+ * @version ${3:1.0.0}
+ */
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>blockclass</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.php</scope>
+</snippet>

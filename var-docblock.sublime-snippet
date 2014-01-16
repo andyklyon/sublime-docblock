@@ -1,0 +1,14 @@
+<snippet>
+   <content><![CDATA[
+/**
+  * ${1:Description of var}
+  *
+  * @var ${2:Type (bool, string, int etc)}
+  * @access ${3:public}
+  */
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>blockvar</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.php</scope>
+</snippet>
